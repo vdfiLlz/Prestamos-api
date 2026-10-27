@@ -1,4 +1,4 @@
-package edu.uam.tecnouam.prestamos.excepcion;
+package edu.uam.tecnouam.prestamos.exception;
 
 import java.time.Instant;
 import java.util.List;

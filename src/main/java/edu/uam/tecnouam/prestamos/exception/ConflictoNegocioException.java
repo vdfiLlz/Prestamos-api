@@ -1,4 +1,4 @@
-package edu.uam.tecnouam.prestamos.excepcion;
+package edu.uam.tecnouam.prestamos.exception;
 
 
 public class ConflictoNegocioException extends RuntimeException {
